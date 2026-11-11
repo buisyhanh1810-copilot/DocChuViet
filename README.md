@@ -33,3 +33,4 @@ Bản release được ký bằng khóa debug để cài được ngay. Muốn �
 ## Mở bằng Android Studio
 
 Mở thư mục này trong Android Studio (bản Koala trở lên). Nếu được hỏi tạo Gradle wrapper thì chọn Gradle 8.7.
+
